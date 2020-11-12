@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-Check out my personal website!
+Check out my website!
 
 https://benl.dev
